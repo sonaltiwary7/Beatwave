@@ -6,7 +6,7 @@ CSS3
 JavaScript
 GSAP (GreenSock Animation Platform)
 How to Run
-To run the this Website locally on your machine:
+To run the this Website locally on your machine:-
 
 Clone the repository: git clone https://github.com/sonaltiwary7/Beatwave.git
 Open the index.html file in your web browser.
